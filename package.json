@@ -2,7 +2,7 @@
   "name": "mituweiyuan",
   "description": "迷途未远：基于 Quartz v5 构建的个人数字花园",
   "private": true,
-  "version": "1.0.0",
+  "version": "5.0.0",
   "type": "module",
   "license": "MIT",
   "scripts": {
